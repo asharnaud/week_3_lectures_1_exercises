@@ -1,0 +1,13 @@
+$mainColor: #216ff6;
+
+
+h1,h2,h3 {
+  background-color: $mainColor;
+  color: white;
+  padding: 5px;
+}
+
+.content a {
+  color: $mainColor;
+  text-decoration: underline;
+}
